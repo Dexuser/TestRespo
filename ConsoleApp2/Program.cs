@@ -8,5 +8,6 @@ class Program
         Console.WriteLine("AY MALDITO LOCO");
         Console.WriteLine("PUERCOS EVOOOOOOOOOOOOOOO MALDITO LOCO");
         Console.WriteLine("lanzafeugoo EVOOOOOOOOOOOOOOO MALDITO LOCO");
+        Console.WriteLine("hay clase mañana");
     }
 }
