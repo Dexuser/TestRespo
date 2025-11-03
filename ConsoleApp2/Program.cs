@@ -9,5 +9,6 @@ class Program
         Console.WriteLine("PUERCOS EVOOOOOOOOOOOOOOO MALDITO LOCO");
         Console.WriteLine("lanzafeugoo EVOOOOOOOOOOOOOOO MALDITO LOCO");
         Console.WriteLine("hay clase mañana");
+        Console.WriteLine("no na");
     }
 }
